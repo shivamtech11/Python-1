@@ -42,6 +42,9 @@ We want your work to be readable by others; therefore, we encourage you to note 
   ```python
   x = x + 2	# increased by 2
   ```
+  ```or
+  x+=2	# increased by 2 #same as written above
+  ```
 
   This is too trivial. Comments are expected to be explanatory. For comments, you can write them above, on or below a line of code, as long as you are consistent within the same piece of code.
 
